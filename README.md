@@ -17,8 +17,7 @@
 **Участник:**
 Александър Димитров
 
-**Линк към документацията**
-[линк](https://docs.google.com/document/d/12Crm_2PY8XZTCjPWXc0VHsJXTKN4n1ZQQcyWSyu1qGQ/edit?tab=t.0)
+[**Линк към документацията**](https://docs.google.com/document/d/12Crm_2PY8XZTCjPWXc0VHsJXTKN4n1ZQQcyWSyu1qGQ/edit?tab=t.0)
 
 Системата демонстрира:
 - бинарна аритметика
