@@ -39,4 +39,4 @@
 - Резистори
 - Захранване 6V
 - Свързващи проводници
-- Подробният списък с компоненти се намира в: [link](https://docs.google.com/spreadsheets/d/17rNvMx0YVMmPqwsUKWA4Ad5-7e4HS8Hky2FkBZKK_-o/edit?gid=835332160#gid=835332160)
+- Подробният списък с компоненти се намира [тук](https://docs.google.com/spreadsheets/d/17rNvMx0YVMmPqwsUKWA4Ad5-7e4HS8Hky2FkBZKK_-o/edit?gid=835332160#gid=835332160).
