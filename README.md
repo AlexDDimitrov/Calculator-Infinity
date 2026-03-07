@@ -33,10 +33,14 @@
 # Използван хардуер
 - CMOS логическа схема (Full Adder архитектура)
 - Arduino
-- 2 × CD4511 BCD-to-7-segment драйвер
+- 2 × CD4511 BCD-to-7-segment драйверa
 - 2 × 7-сегментни LED дисплея
 - Breadboard
 - Резистори
 - Захранване 6V
 - Свързващи проводници
 - Подробният списък с компоненти се намира [тук](https://docs.google.com/spreadsheets/d/17rNvMx0YVMmPqwsUKWA4Ad5-7e4HS8Hky2FkBZKK_-o/edit?gid=835332160#gid=835332160).
+
+# Схеми
+![](images/1ModuleBlueprint.png)
+![](images/7segBlueprint.png)
