@@ -33,3 +33,6 @@
 ![](images/1ModuleBlueprint.png)
 ![](images/7segBlueprint.png)
 ![](images/subtractBlueprint.png)
+
+# Tested in logic.ly:
+![](images/testingScheme.png)
